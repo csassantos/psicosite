@@ -41,7 +41,7 @@ export default function WhenTherapyHelps() {
                   <span className="font-serif text-green-600 text-sm">{s.num}</span>
                 </div>
                 <h3 className="font-serif text-xl md:text-2xl leading-snug text-balance">{s.title}</h3>
-                <p className="mt-4 text-neutral-500 text-[15px] leading-relaxed opacity-0 max-h-0 group-hover:opacity-100 group-hover:max-h-40 transition-all duration-500 overflow-hidden">
+                <p className="mt-4 text-neutral-500 text-[15px] leading-relaxed max-h-40 md:opacity-0 md:max-h-0 md:group-hover:opacity-100 md:group-hover:max-h-40 transition-all duration-500 overflow-hidden">
                   {s.desc}
                 </p>
               </div>

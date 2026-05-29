@@ -18,8 +18,8 @@ export default function About() {
             />
           </div>
           <div className="absolute -bottom-5 -right-4 md:-right-6 bg-background border border-neutral-200 rounded-2xl px-6 py-5 shadow-lg max-w-[200px]">
-            <p className="text-xs uppercase tracking-[0.2em] text-neutral-400 mb-1">Atendendo desde</p>
-            <p className="font-serif text-2xl">2016</p>
+            <p className="text-xs uppercase tracking-[0.2em] text-neutral-400 mb-1">Formada em</p>
+            <p className="font-serif text-2xl">2025</p>
           </div>
         </FadeUp>
 
@@ -28,7 +28,7 @@ export default function About() {
           <h2 className="font-serif text-4xl md:text-5xl mb-6 text-balance">Olá, sou a Isadora.</h2>
           <div className="space-y-5 text-lg text-neutral-600 leading-relaxed max-w-xl">
             <p>
-              Sou psicóloga clínica com mais de 8 anos de experiência, atendendo adultos que navegam pela ansiedade, transições, luto e as formas mais silenciosas de sofrimento que nem sempre têm nome.
+              Sou psicóloga clínica formada no final de 2025, com experiência clínica construída ao longo do estágio obrigatório — e que continuei desenvolvendo com os mesmos pacientes após a graduação. Atendo adultos que navegam pela ansiedade, transições, luto e as formas mais silenciosas de sofrimento que nem sempre têm nome.
             </p>
             <p>
               Minha prática é baseada na terapia cognitivo-comportamental (TCC), sustentada pela crença de que a mudança real acontece devagar, na relação, e nos seus próprios termos.

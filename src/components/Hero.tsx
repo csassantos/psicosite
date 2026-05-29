@@ -44,16 +44,16 @@ export default function Hero() {
 
           <div className="mt-10 flex gap-12">
             <div>
-              <p className="font-serif text-4xl text-green-500">8 anos</p>
-              <p className="text-xs text-neutral-400 mt-1 uppercase tracking-wide">de experiência clínica</p>
-            </div>
-            <div>
               <p className="font-serif text-4xl text-green-500">TCC</p>
               <p className="text-xs text-neutral-400 mt-1 uppercase tracking-wide">abordagem</p>
             </div>
             <div>
               <p className="font-serif text-4xl text-green-500">Online</p>
               <p className="text-xs text-neutral-400 mt-1 uppercase tracking-wide">& presencial</p>
+            </div>
+            <div>
+              <p className="font-serif text-4xl text-green-500">2025</p>
+              <p className="text-xs text-neutral-400 mt-1 uppercase tracking-wide">formada em psicologia</p>
             </div>
           </div>
         </div>
